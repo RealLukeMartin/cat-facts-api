@@ -1,0 +1,1 @@
+export { createRestRoutes } from './api';
