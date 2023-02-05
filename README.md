@@ -1,3 +1,3 @@
-# Typescript API Starter Pack
+# Cat Facts API
 
-Opinionated starter pack for Typescript Express API
+API Supporting the https://www.catfacts.io
